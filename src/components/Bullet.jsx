@@ -1,5 +1,5 @@
 import React from 'react';
-import './style/Bullet.css';
+import '../style/Bullet.css';
 import BulletImg from '../img/bullet.png';
 
 class Bullet extends React.Component {

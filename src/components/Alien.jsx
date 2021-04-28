@@ -1,5 +1,5 @@
 import React from 'react';
-import './style/Alien.css';
+import '../style/Alien.css'
 import ImgAlien from '../img/alien2.png'
 
 

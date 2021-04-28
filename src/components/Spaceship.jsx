@@ -1,5 +1,5 @@
 import React from 'react';
-import './style/Spaceship.css';
+import '../style/Spaceship.css';
 import ImageSpaceship from '../img/spaceship.png';
 
 class Spaceship extends React.Component {
